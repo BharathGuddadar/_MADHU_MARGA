@@ -96,11 +96,6 @@ Create a new branch
 Make changes and commit
 Push and create a pull request
 
----
-
-## 📄 License
-
-MIT License
 
 ---
 
